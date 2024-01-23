@@ -12,7 +12,7 @@ int main(){
     cout << str << endl;
     cout << "Enter your name: ";
     cin >> name;
-    
+    cout << "hi there";
 
 
     return 0;
